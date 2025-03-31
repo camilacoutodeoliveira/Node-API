@@ -1,4 +1,14 @@
 # API Users Project
+# API Project
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="50"/>
+</p>
+
 
 ## Overview
 This project is a RESTful API built with **Node.js**, using **Express** as the web framework, **MongoDB** as the database, and **Prisma** as the ORM. Authentication is handled with **JWT**, and passwords are securely hashed using **Bcrypt**.
